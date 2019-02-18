@@ -13,4 +13,4 @@
 * Two jars will show up in a target directory.
 * **java -jar ConnectedChatClient-1.0-SNAPSHOT.jar** command runs the client or double click on jar icon in explorer.
 
-[link to Connected - server](https://www.google.com)
+[link to Connected - server](https://github.com/AleksWithCoffee/publishtest)
